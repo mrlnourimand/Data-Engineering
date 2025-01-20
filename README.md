@@ -1,7 +1,9 @@
 # Data-Engineering
 Here's my exercises of data engineering in Databricks with PySpark.
 
-This is an assignment from the course "Data-intensive programming" in Tampere University Fall 2024.
+This is an assignment from the course "Data-intensive programming" in Tampere University in Fall 2024.
+It was a group work done in collaboration with Ali Jedari Heidarzadeh.
+
 The assignment consists of 9 basic tasks and 3 advanced tasks, as follows:
 - Task 1
   •Video game sales data
